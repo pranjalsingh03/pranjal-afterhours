@@ -1,0 +1,9 @@
+node_modules
+dist
+research
+qa
+artwork
+afterhours-static.zip
+.git
+.env*
+.vercel
